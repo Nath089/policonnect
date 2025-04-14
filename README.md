@@ -19,4 +19,4 @@ The main goal of Policonnect is to help students, researchers, and politically c
 - Hosted on GitHub Pages
 
 This project was developed as a final project for CS50. It aims to combine technical skills with a real-world theme: global politics. Through this project, I deepened my understanding of API integration, DOM manipulation, and responsive design.
-
+submit50 cs50/problems/2025/x/project
